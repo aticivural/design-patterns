@@ -1,4 +1,4 @@
-package com.vural.dp.structural.proxy.sample01.proxy;
+package com.vural.dp.structural.proxy.sample01;
 
 public interface ReportGenerator {
     void displayReportTemplate(String reportFormat, int reportEntries);

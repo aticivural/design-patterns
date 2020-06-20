@@ -1,4 +1,4 @@
-package com.vural.dp.structural.proxy.sample02.proxy;
+package com.vural.dp.structural.proxy.sample02;
 
 public class Video {
     public String id;

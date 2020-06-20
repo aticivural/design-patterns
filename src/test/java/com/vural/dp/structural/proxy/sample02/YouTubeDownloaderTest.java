@@ -1,4 +1,4 @@
-package com.vural.dp.structural.proxy.sample02.proxy;
+package com.vural.dp.structural.proxy.sample02;
 
 import org.junit.Test;
 

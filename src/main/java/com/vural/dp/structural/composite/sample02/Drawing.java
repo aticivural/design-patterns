@@ -1,4 +1,4 @@
-package com.vural.dp.structural.composite.sample02.composite;
+package com.vural.dp.structural.composite.sample02;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.vural.dp.structural.facade.sample02.facade;
+package com.vural.dp.structural.facade.sample02;
 
 import org.junit.Test;
 

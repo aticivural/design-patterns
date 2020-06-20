@@ -1,4 +1,4 @@
-package com.vural.dp.structural.composite.sample01.composite;
+package com.vural.dp.structural.composite.sample01;
 
 public class Product extends CatalogComponent {
     private String name;
